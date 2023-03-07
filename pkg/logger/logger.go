@@ -10,12 +10,12 @@ import (
 
 	"github.com/asaskevich/govalidator"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/proxify/pkg/logger/elastic"
-	"github.com/projectdiscovery/proxify/pkg/logger/file"
-	"github.com/projectdiscovery/proxify/pkg/logger/kafka"
 	stringsutil "github.com/projectdiscovery/utils/strings"
+	"github.com/vortexTCP/proxy/pkg/logger/elastic"
+	"github.com/vortexTCP/proxy/pkg/logger/file"
+	"github.com/vortexTCP/proxy/pkg/logger/kafka"
 
-	"github.com/projectdiscovery/proxify/pkg/types"
+	"github.com/vortexTCP/proxy/pkg/types"
 )
 
 const (

@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/projectdiscovery/dsl"
-	"github.com/projectdiscovery/proxify/pkg/types"
+	"github.com/vortexTCP/proxy/pkg/types"
 )
 
 // SocketProxy - connect two sockets with TLS inspection

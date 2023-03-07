@@ -2,7 +2,7 @@ package kafka
 
 import (
 	"github.com/Shopify/sarama"
-	"github.com/projectdiscovery/proxify/pkg/types"
+	"github.com/vortexTCP/proxy/pkg/types"
 )
 
 // Options required for kafka

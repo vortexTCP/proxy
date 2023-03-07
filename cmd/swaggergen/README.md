@@ -4,10 +4,10 @@ SwaggerGen can generate [Swagger/OpenAPI Specification](https://swagger.io/speci
 
 # Installation
 
-Download the latest, ready-to-run binary from under [releases](https://github.com/projectdiscovery/proxify/releases/) or install/build it using `Go`:
+Download the latest, ready-to-run binary from under [releases](https://github.com/vortexTCP/proxy/releases/) or install/build it using `Go`:
 
 ```shell
-go install -v github.com/projectdiscovery/proxify/cmd/swaggergen@latest
+go install -v github.com/vortexTCP/proxy/cmd/swaggergen@latest
 ```
 
 # Usage

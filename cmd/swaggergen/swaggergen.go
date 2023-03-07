@@ -16,8 +16,8 @@ import (
 
 	"github.com/projectdiscovery/goflags"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/proxify/pkg/swaggergen"
 	fileutil "github.com/projectdiscovery/utils/file"
+	"github.com/vortexTCP/proxy/pkg/swaggergen"
 )
 
 type Options struct {

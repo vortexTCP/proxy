@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/projectdiscovery/proxify/pkg/types"
 	fileutil "github.com/projectdiscovery/utils/file"
+	"github.com/vortexTCP/proxy/pkg/types"
 )
 
 // Options required for file export

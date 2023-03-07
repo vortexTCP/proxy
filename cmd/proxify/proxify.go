@@ -7,7 +7,7 @@ import (
 	"syscall"
 
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/proxify/internal/runner"
+	"github.com/vortexTXP/proxy/runner"
 )
 
 func main() {

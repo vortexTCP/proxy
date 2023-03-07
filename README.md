@@ -1,4 +1,4 @@
 # Proxy
 
 
-https://github.com/projectdiscovery/proxify
+https://github.com/vortexTCP/proxy

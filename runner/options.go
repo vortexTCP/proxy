@@ -9,9 +9,9 @@ import (
 	"github.com/projectdiscovery/gologger"
 	"github.com/projectdiscovery/gologger/formatter"
 	"github.com/projectdiscovery/gologger/levels"
-	"github.com/projectdiscovery/proxify/pkg/logger/elastic"
-	"github.com/projectdiscovery/proxify/pkg/logger/kafka"
-	"github.com/projectdiscovery/proxify/pkg/types"
+	"github.com/vortexTCP/proxy/pkg/logger/elastic"
+	"github.com/vortexTCP/proxy/pkg/logger/kafka"
+	"github.com/vortexTCP/proxy/pkg/types"
 )
 
 // Options of the runner
